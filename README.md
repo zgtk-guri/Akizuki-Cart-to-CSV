@@ -11,3 +11,6 @@ Chromeウェブストアで公開しています。
 紹介記事をhatena blogに書いています。
 
 [秋月の通販のカートに入っている商品一覧をCSVに吐き出すChrome拡張「Akizuki Cart to CSV」を作った - The Long Tweets](http://tlt.gurigoro.net/entry/2018/01/13/200510)
+
+# ライセンス
+ライセンスはMIT Licenseです。
