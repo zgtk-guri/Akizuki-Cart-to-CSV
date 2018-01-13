@@ -1,0 +1,13 @@
+{
+  "name": "akizuki-cart-to-csv",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}

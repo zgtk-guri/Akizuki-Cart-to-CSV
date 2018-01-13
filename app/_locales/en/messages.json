@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Akizuki Cart to CSV",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "秋月電子通商のカートに入っている商品を，CSVに書き出します。",
+    "description": "The description of the application"
+  }
+}
